@@ -18,3 +18,7 @@ logging:
     org.flbc: "INFO"
     org.springframework: "WARN"
     org.hibernate: "WARN"
+server:
+  tomcat:
+    remote_ip_header: "x-forwarded-for"
+    protocol_header: "x-forwarded-proto"
