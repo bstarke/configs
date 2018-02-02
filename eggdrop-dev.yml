@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    show-sql: true
+endpoints:
+  enabled: true
+  sensitive: false
+logging:
+  level:
+    org.flbc: "DEBUG"
+    org.springframework: "INFO"
+    org.hibernate: "INFO"
+
