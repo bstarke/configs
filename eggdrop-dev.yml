@@ -1,6 +1,12 @@
 spring:
+  datasource:
+    validation-query: "select 1"
+    test-on-borrow: true
   jpa:
+    database-platform: "org.hibernate.dialect.MySQL5Dialect"
     show-sql: true
+    hibernate:
+      ddl-auto: "create-drop"
 endpoints:
   enabled: true
   sensitive: false
