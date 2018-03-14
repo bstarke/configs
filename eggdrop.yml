@@ -4,7 +4,7 @@ spring:
     test-on-borrow: true
   jpa:
     database-platform: "org.hibernate.dialect.MySQLDialect"
-    show-sql: false
+    show-sql: true
     hibernate:
       ddl-auto: "update"
 endpoints:
@@ -15,7 +15,7 @@ endpoints:
     enabled: true
 logging:
   level:
-    org.flbc: "INFO"
+    org.flbc: "DEBUG"
     org.springframework: "WARN"
     org.hibernate: "WARN"
 server:
