@@ -16,6 +16,8 @@ logging:
     org.springframework: "INFO"
     org.hibernate: "INFO"
 eggdrop:
+  user: "bstarke"
+  password: "p@ssword"
   ageGroups:
     -
       name: "0 to 2"
@@ -37,3 +39,5 @@ eggdrop:
       name: "Over Age"
       min: 11
       max: 99
+
+#"{cipher}AEBZ1rAcHH9BoIzkUeI+IQMuszABjrNRlN2m4nxRoKvK4Db09J1kqcmgveLjoEGdGXOnHasmg2u9/xY1GOY0zryJKe7PRZFr86z3MfrTJJqsa09Syjsy5Y43epUOq4VXTNowlPxnmqZ9aEiZzYmBMsza"

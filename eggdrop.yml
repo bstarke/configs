@@ -23,8 +23,6 @@ server:
     remote_ip_header: "x-forwarded-for"
     protocol_header: "x-forwarded-proto"
 eggdrop:
-  user: "bstarke"
-  password: "{cipher}AEBZ1rAcHH9BoIzkUeI+IQMuszABjrNRlN2m4nxRoKvK4Db09J1kqcmgveLjoEGdGXOnHasmg2u9/xY1GOY0zryJKe7PRZFr86z3MfrTJJqsa09Syjsy5Y43epUOq4VXTNowlPxnmqZ9aEiZzYmBMsza"
   ageGroups:
     -
       name: "0 to 1"
