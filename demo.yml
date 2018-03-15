@@ -1,0 +1,7 @@
+spring:
+  security:
+    user:
+      password: "{cipher}AECL9kujF/3ls78VYFUOjAz7IVgUF2SFLibX4z+FlGSIORBkcBkY+YZOYHV6jhyt/Wdt8DKowquulVwXRoddWn6JdEXEajK3tybScTWHsb44DFgORz7MP675Za2+rTTw1JU="
+      name: "bstarke"
+welcome:
+  message: "{cipher}AEDIcI3OkeHChWqLplWZoPfXxxUCmqK5bzuTRLh2E2knba1weagzPOU8nGEJuTVaTIHdBnL+ReP4rOEIG0mRFt9nEhonW/mLO+INdIX+fVIIFEfvXVEhZmr1WHB4jE4sTrMfosWxxAM+GJi+thG1MCvT"
