@@ -1,2 +1,3 @@
 welcome:
   message: "Hello Earthling"
+  encrypted: "{cipher}AEAz7JHW15TRZOIDPmaKddzzimh9jLjZaQJHT6XEHJz8vJJ4yA14hqtuPWrVe754SCPJpEhZvKZhEa/FnNTkmJNNrKN6p2gJDGgLlWEnzFpGCJepAUKjqjZheYCU0pbxmYG7SFdovJ87RivNdYJh5oLy"
