@@ -39,8 +39,8 @@ eggdrop:
     -
       name: "7 to 10"
       min: 7
-      max: 10
+      max: 12
     -
       name: "Over Age"
-      min: 11
+      min: 13
       max: 99
